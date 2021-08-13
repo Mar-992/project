@@ -1,0 +1,18 @@
+{
+    "database": {
+        "host":"",
+        "port":"",
+        "username":"",
+        "password":"",
+        "dbname":""
+    },
+    "auth":{
+        "jwt_key":"marinaSecretKey"
+    },
+    "ports":{
+        "auth":"3001",
+        "recipes":"3002",
+        "users":"3003",
+        "storage":"3004"
+    }
+}
